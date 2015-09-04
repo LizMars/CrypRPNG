@@ -1,0 +1,7 @@
+Threshold:	0.9666
+Threshold exc:	0.9589
+Passed 99%:	106
+Passed 96%:	188
+P <= 0.01:	5
+P <= 0.001:	0
+P <= 0.05:	12
